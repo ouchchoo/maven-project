@@ -11,13 +11,15 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
 		<mule.version>3.8.5</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
+		
 		<derby.version>10.13.1.1</derby.version>
+		
 		<activemq.client.version>5.15.1</activemq.client.version>
 		<activemq.broker.version>5.15.1</activemq.broker.version>
 		<activemq.kahodb.store.version>5.15.1</activemq.kahodb.store.version>
+		
 	</properties>
 
 	<build>
@@ -208,3 +210,4 @@
 	</pluginRepositories>
 
 </project>
+
